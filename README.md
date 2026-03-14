@@ -1,11 +1,9 @@
-# Sample Snack app
+## Bài tập 7.1: Sử dụng Stack Navigation
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
-
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
-
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+* Nâng cấp bài **validation số điện thoại** từ bài trước.
+* Sử dụng **Stack Navigation** để điều hướng giữa các màn hình.
+* Màn hình **SignIn**: Người dùng nhập số điện thoại và hệ thống kiểm tra định dạng.
+* Nếu số điện thoại **hợp lệ** và nhấn **Tiếp tục**, ứng dụng sẽ chuyển sang **Home Screen (Trang chủ)**.
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
